@@ -1,4 +1,4 @@
-public class PartTimeEmployee {
+public class UC4_PartTimeEmployee {
     public static void main(String[] args) {
         int wagePerHour = 20;
         int partTimeHour = 4;
